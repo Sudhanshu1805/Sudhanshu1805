@@ -9,25 +9,6 @@
 - 🛠️ Developed solutions for **AI-powered document analysis**, **fraud detection in e-commerce**, and **intelligent portfolio management**  
 - 💡 **Software Development Intern at GrapplTech**, improving UI performance and user retention  
 
-## 🔧 Tech Stack  
-
-**Languages:**  
-`Java` `C/C++` `Python` `JavaScript` `R` `Golang`  
-
-**Frameworks & Tools:**  
-`Node.js` `Angular` `MongoDB` `MySQL` `Hadoop` `Docker` `Jenkins`  
-`Kafka` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Apache Spark`  
-
-## 🎯 Achievements & Activities  
-- 🏸 **State-level badminton & district-level chess player**  
-- 👨‍💻 **Class representative for CSE**  
-- 🎶 **Certified in classical music (Harmonium) with distinction**  
-
-## 📊 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu1805&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu1805&layout=compact&theme=radical)  
-
 ## 🛠️ Tools & Technologies  
 
 <p align="center">
@@ -43,7 +24,19 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black" alt="Hadoop" />
   <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-</p>
+</p> 
+
+## 🎯 Achievements & Activities  
+- 🏸 **State-level badminton & district-level chess player**  
+- 👨‍💻 **Class representative for CSE**  
+- 🎶 **Certified in classical music (Harmonium) with distinction**  
+
+## 📊 GitHub Stats  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sudhanshu1805&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanshu1805&layout=compact&theme=radical)  
+
+
 
 ## 🌐 Connect with Me  
 
